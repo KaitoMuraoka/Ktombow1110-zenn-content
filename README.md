@@ -2,9 +2,8 @@
 ここはとんとんぼのZenn記事の倉庫です。
 気軽に編集・コメントしていってください
 
-Zennのアカウントはこちら
+[Zennのアカウント](https://zenn.dev/kaitombow)
 
-https://zenn.dev/kaitombow
 
 # 記事の利用方法
   👇  新しい記事を作成する
